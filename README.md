@@ -5,7 +5,7 @@
 
 ### 💻 Software Engineering Student | University of Aveiro 🇵🇹
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&width=500&lines=Computer+Engineering+Student;Java+%7C+SQL+%7C+Bash;Always+Learning+New+Things!)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Java+%7C+SQL+%7C+Bash;Always+Learning+New+Things!)
 
 </div>
 
