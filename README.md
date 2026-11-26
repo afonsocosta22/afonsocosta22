@@ -1,103 +1,93 @@
-
 <div align="center">
 
-# 👋 Hey, I'm Afonso!
+<a href="https://github.com/afonsocosta22"><img src="assets/header.svg" width="100%" alt="Afonso | Software Engineering Student" /></a>
 
-### 💻 Software Engineering Student | University of Aveiro 🇵🇹
+<br />
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Java+%7C+SQL+%7C+Bash;Always+Learning+New+Things!)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2600&pause=1200&color=38BDF8&center=true&vCenter=true&width=620&lines=Building+software+one+commit+at+a+time;Java+%7C+C+%7C+Python+%7C+SQL;Exploring+Linux+and+Operating+Systems;Always+learning%2C+always+building" alt="Building software one commit at a time" />
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=afonsocosta22&amp;label=profile%20views&amp;color=0284c7&amp;style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Portugal-%F0%9F%87%B5%F0%9F%87%B9-0f172a?style=flat-square&amp;labelColor=0284c7" alt="Portugal" />
+</p>
 
 </div>
 
----
+<br />
 
-### 🚀 About Me
+<img src="assets/sec-about.svg" width="100%" alt="01 — About me" />
 
-- 🎓 Studying Computer Engineering at the University of Aveiro
-- 💻 Currently learning Java, SQL and Software Design Patterns
-- 🐧 Interested in Linux, Bash and Operating Systems
-- 📚 Improving my programming and problem-solving skills
-- 🇵🇹 Based in Portugal
+- **Studying** Software Engineering at the University of Aveiro, Portugal.
+- **Building** academic and personal projects in Java, C and Python.
+- **Exploring** operating systems, Linux, databases and software design patterns.
+- **Currently working on** system programming and database applications.
+- **Always learning** by turning ideas into working software.
 
----
+<br />
 
-### 🛠️ Languages & Tools
+<img src="assets/sec-stack.svg" width="100%" alt="02 — Tech stack" />
 
-<div align="center">
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,c,py,cs,bash,html,css,linux,git,github,vscode,visualstudio&amp;theme=dark&amp;perline=12" alt="Java, C, Python, C sharp, Bash, HTML, CSS, Linux, Git, GitHub, VS Code and Visual Studio" />
+</p>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&amp;logo=microsoftsqlserver&amp;logoColor=white" alt="SQL Server" /> <img src="https://img.shields.io/badge/SQL-0f172a?style=flat-square&amp;logo=databricks&amp;logoColor=38bdf8" alt="SQL" />
 
-</div>
+<br />
 
----
+<img src="assets/sec-work.svg" width="100%" alt="03 — Selected projects" />
 
-### 📊 GitHub Statistics
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/afonsocosta22/tictactoe">Tic-Tac-Toe</a></h3>
+      <p>A simple implementation of the classic game using Pygame.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>Operating Systems</h3>
+      <p>Academic projects involving Linux, Bash scripting and systems programming in C.</p>
+      <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&amp;logo=c&amp;logoColor=black" alt="C" />
+      <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&amp;logo=gnubash&amp;logoColor=white" alt="Bash" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Object-Oriented Programming</h3>
+      <p>Java exercises and projects focused on design patterns and maintainable software.</p>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&amp;logo=openjdk&amp;logoColor=white" alt="Java" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>Prison Management Database</h3>
+      <p>Relational database design and a desktop application using SQL Server and C#.</p>
+      <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square" alt="SQL Server" />
+      <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&amp;logo=dotnet&amp;logoColor=white" alt="C sharp" />
+    </td>
+  </tr>
+</table>
 
-<div align="center">
+<sub>Academic repositories may be private. <a href="https://github.com/afonsocosta22?tab=repositories">Browse public repositories →</a></sub>
 
-![Afonso's GitHub Stats](https://github-readme-stats.vercel.app/api?username=afonsocosta22&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
+<br />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=afonsocosta22&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+<img src="assets/sec-activity.svg" width="100%" alt="04 — GitHub activity" />
 
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/afonsocosta22/afonsocosta22/output/streak.svg" alt="GitHub contribution streak and total contributions" />
+</p>
 
----
+<p align="center">
+  <a href="https://github.com/afonsocosta22">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=afonsocosta22&amp;bg_color=0d1117&amp;color=94a3b8&amp;line=38bdf8&amp;point=e2e8f0&amp;area=true&amp;area_color=0284c7&amp;hide_border=true" width="100%" alt="GitHub contribution activity graph" />
+  </a>
+</p>
 
-### 🔥 GitHub Streak
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/afonsocosta22/afonsocosta22/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/afonsocosta22/afonsocosta22/output/github-snake.svg" />
+  <img alt="Animated snake eating my GitHub contributions" src="https://raw.githubusercontent.com/afonsocosta22/afonsocosta22/output/github-snake.svg" width="100%" />
+</picture>
 
-<div align="center">
+<br />
 
-![GitHub Streak](https://streak-stats.demolab.com?user=afonsocosta22&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-### 📈 Contribution Graph
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=afonsocosta22&theme=tokyo-night&hide_border=true)
-
-</div>
-
----
-
-### 📂 Featured Projects
-
-- ☕ [Object-Oriented Programming](https://github.com/afonsocosta22/pds2627) — Java, OOP and Design Patterns
-- 🐧 [Operating Systems](https://github.com/afonsocosta22/SO_project1) — Linux and Bash scripting
-- 🗄️ Prison Management Database — SQL and Database Design (work in progress)
-
----
-
-<div align="center">
-
-### 👀 Profile Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=afonsocosta22&color=70a5fd&style=for-the-badge)
-
-**Thanks for visiting my profile! 🚀**
-
-</div>
-
-<!--
-**afonsocosta22/afonsocosta22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="assets/footer.svg" width="100%" alt="Thanks for stopping by — see you in the next commit" />

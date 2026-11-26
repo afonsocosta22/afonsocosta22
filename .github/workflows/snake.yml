@@ -1,0 +1,50 @@
+name: Generate contribution snake and streak
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/snake.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-activity
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Generate snake SVGs
+        id: generate-snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg?color_snake=#0284c7&color_dots=#ebedf0,#bae6fd,#7dd3fc,#38bdf8,#0369a1
+            dist/github-snake-dark.svg?color_snake=#38bdf8&color_dots=#161b22,#0c4a6e,#0369a1,#0284c7,#7dd3fc
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate streak stats SVG
+        uses: DenverCoder1/github-readme-streak-stats@v1
+        with:
+          options: user=${{ github.repository_owner }}&background=0d1117&hide_border=true&border_radius=16&stroke=23354a&ring=38bdf8&fire=38bdf8&currStreakNum=e2e8f0&sideNums=e2e8f0&currStreakLabel=38bdf8&sideLabels=94a3b8&dates=94a3b8&timezone=Europe/Lisbon
+          path: dist/streak.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Publish SVGs to the output branch
+        if: ${{ !cancelled() && steps.generate-snake.outcome == 'success' }}
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
