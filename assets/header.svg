@@ -1,12 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="250" viewBox="0 0 960 250" role="img" aria-label="Afonso, Software Engineering Student">
-<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1220"/><stop offset="1" stop-color="#102c42"/></linearGradient><pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#38bdf8" opacity=".08"/></pattern></defs>
-<rect width="960" height="250" rx="18" fill="url(#bg)"/><rect width="960" height="250" rx="18" fill="url(#grid)"/><rect x="1" y="1" width="958" height="248" rx="17" fill="none" stroke="#28465f"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="220" viewBox="0 0 960 220" role="img" aria-label="Afonso, Software Engineering Student">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0a1b36"/><stop offset="1" stop-color="#123d66"/></linearGradient><pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#38bdf8" opacity=".08"/></pattern></defs>
+<rect width="960" height="220" rx="18" fill="url(#bg)"/><rect width="960" height="220" rx="18" fill="url(#grid)"/><rect x="1" y="1" width="958" height="218" rx="17" fill="none" stroke="#245b91"/>
 <path d="M660 0L850 250M735 0L925 250M810 0L960 198" stroke="#38bdf8" opacity=".14" stroke-width="2"/>
-<rect x="38" y="34" width="5" height="178" rx="2.5" fill="#38bdf8"/>
-<text x="64" y="62" fill="#7dd3fc" font-family="monospace" font-size="16" letter-spacing="3">HELLO, WORLD! / 01</text>
-<text x="60" y="136" fill="#f1f5f9" font-family="Arial,sans-serif" font-weight="700" font-size="69">Afonso<tspan fill="#38bdf8">.</tspan></text>
-<text x="64" y="173" fill="#cbd5e1" font-family="monospace" font-size="21">Software Engineering Student</text>
-<text x="64" y="204" fill="#94a3b8" font-family="monospace" font-size="15">University of Aveiro / Portugal</text>
-<g transform="translate(704 64)" fill="none" stroke="#38bdf8" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"><path d="M45 13L9 48l36 35M112 13l36 35-36 35M92 0L65 96"/></g>
-<circle cx="887" cy="210" r="4" fill="#38bdf8"/><text x="876" y="214" text-anchor="end" fill="#94a3b8" font-family="monospace" font-size="13">BUILD · LEARN · REPEAT</text>
+<rect x="38" y="30" width="5" height="160" rx="2.5" fill="#38bdf8"/>
+<text x="60" y="100" fill="#e0f2fe" font-family="Arial,sans-serif" font-weight="700" font-size="69">Afonso<tspan fill="#38bdf8">.</tspan></text>
+<text x="64" y="137" fill="#bae6fd" font-family="monospace" font-size="21">Software Engineering Student</text>
+<text x="64" y="168" fill="#93c5fd" font-family="monospace" font-size="15">University of Aveiro / Portugal</text>
+<g transform="translate(704 56)" fill="none" stroke="#38bdf8" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"><path d="M45 13L9 48l36 35M112 13l36 35-36 35M92 0L65 96"/></g>
 </svg>
